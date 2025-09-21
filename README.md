@@ -3,7 +3,7 @@
 ## Overview:
 A minimal Bash tool that displays the latest syslog entries in real time, highlights severity levels with colors, and shows message counts.
 
-![alt SyslogPic](screenshot.png)
+![alt SyslogPic](screenshot(3).png)
 
 ## Features
 - Tails a log file (e.g. /var/log/syslog or device-specific logs).
